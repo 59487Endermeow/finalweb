@@ -1,7 +1,7 @@
 var express = require("express");
 var server = express();
 var bodyParser = require("body-parser");
-app.use(express.static('public'));
+
 var fileUpload = require("express-fileupload");
 
 server.use(express.static(__dirname + "/Public"));
