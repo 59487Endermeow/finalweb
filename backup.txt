@@ -1,0 +1,17 @@
+DoodleDB.insert(
+    [
+{mywork:"images/dod/20240111.png"},
+{mywork:"images/dod/20240418.png"},
+{mywork:"images/dod/20241208-2.png"},
+{mywork:"images/dod/20241210.png"},
+{mywork:"images/dod/20250728.png"},
+{mywork:"images/dod/20251006.png"},
+{mywork:"images/dod/20251115.png"},
+{mywork:"images/dod/20251119.png"},
+{mywork:"images/dod/20251203.png"},
+{mywork:"images/dod/20251208.png"},
+{mywork:"images/dod/20251214.png"},
+{mywork:"images/dod/20251116.jpg"},
+{mywork:"images/dod/20251222.jpg"},
+]
+)
