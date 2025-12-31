@@ -4,7 +4,7 @@ var bodyParser = require("body-parser");
 
 var fileUpload = require("express-fileupload");
 
-server.use(express.static(__dirname + "/Public"));
+server.use(express.static(__dirname + "/public"));
 server.use(bodyParser.urlencoded());
 server.use(bodyParser.json());
 server.use(fileUpload({limits:{fileSize:2*2048*2048}}))
